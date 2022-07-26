@@ -8,5 +8,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("niubiGit");
         System.out.println("niubiGit2");
+        System.out.println("niubiGit3");
     }
 }
