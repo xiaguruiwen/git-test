@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("niubiGit");
         System.out.println("niubiGit2");
         System.out.println("niubiGit3");
+        System.out.println("push test!");
     }
 }
